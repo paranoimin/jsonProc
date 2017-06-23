@@ -1,0 +1,27 @@
+{
+  "name": "jsonproc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server":"^0.10.0",
+    "jquery":"^3.2.1"
+  },
+  "devDependencies": {
+    "http-server":"^0.10.0",
+    "jquery":"^3.2.1"
+  },
+  "scripts": {
+    "test": "unknown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paranoimin/jsonProc.git"
+  },
+  "author": "jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paranoimin/jsonProc/issues"
+  },
+  "homepage": "https://github.com/paranoimin/jsonProc#readme"
+}

@@ -1,0 +1,38 @@
+{
+    "categories":[
+        {
+            "id":"food",
+            "title":"식품코너",
+            "categories":[
+                {"title":"과자"},
+                {"title":"생선"},
+                {"title":"과일"},
+                {"title":"음료"},
+                {"title":"유제품"}
+            ]
+        },
+        {
+            "id":"electronic",
+            "title":"가전제품",
+            "categories":[
+                {"title":"TV"},
+                {"title":"컴퓨터"},
+                {"title":"오디오"},
+                {"title":"냉장고"},
+                {"title":"전기밥솥"}
+            ]
+        },
+        {
+            "id":"furniture",
+            "title":"가구",
+            "categories":[
+                {"title":"책상"},
+                {"title":"의자"},
+                {"title":"옷걸이"},
+                {"title":"소파"},
+                {"title":"책장"}
+            ]
+        }
+
+    ]
+}
